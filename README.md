@@ -7,12 +7,11 @@ Capstone Project for Flatiron School DS 021720
   For my Capstone project I chose to do a data analysis over the Home Default Credit Risk competition on Kaggle.
 
 **The Goal:**
-  The focus of this project was study the behavioral patterns of those who got the vaccinations for the H1N1 virus and try to promote said behaviors to the generl public to follow. 
-
+  The focus of this project is to create a model that can predict if an individual will default on their home loan or not. Once the predictions are done we will list the features that affect the result the most and present it as a potential risk factor to the customer.
 
 **The Problem:**
+* There are many factors that affect the results
 * 
-
 
 **The Solution:**
 * 
@@ -59,12 +58,12 @@ Canva Link
 
 # Resources
 
-**The Data: [link](https://www.kaggle.com/c/home-credit-default-risk/overview)**
+**[The Data](https://www.kaggle.com/c/home-credit-default-risk/overview)**
 
 **Models: Below you will find model documentation**
 
-* [Random Forest:](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
-* [Gradient Boost:](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)
+* [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+* [Gradient Boost](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)
  
 # Human Resources
 * My Last Data Bender Cohort 02/17/20 classmates
