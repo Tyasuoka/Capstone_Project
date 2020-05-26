@@ -11,11 +11,11 @@ Capstone Project for Flatiron School DS 021720
 
 **The Problem:**
 * There are many factors that affect the results
-* There is a lot of 
+* There are many underlying circumstances that aren't apparent at first glance
 
 **The Solution:**
-* 
-
+* The model will be able to comb through the data and find the biggest factors that alter the result
+* The suggestions could help prevent future customers that default on the loans
 
 **The Process**
 
@@ -59,6 +59,7 @@ The main metric used was ROC_AUC scoring.
 
 **The Data**
 The raw datasets were too big for github so they have not been added to this Repository.
+
 The data is based off of [this](https://www.kaggle.com/c/home-credit-default-risk/overview) Kaggle Competition.
 
 **Models: Below you will find model documentation**
