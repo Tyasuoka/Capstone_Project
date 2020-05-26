@@ -41,7 +41,6 @@ The main metric used was ROC_AUC scoring.
 # Future Recommendations
 1. Gather more data with less null values
 2. Apply feature engineering to improve model performance
-3. 
 
 # Repository Guide
 
@@ -62,7 +61,9 @@ The raw datasets were too big for github so they have not been added to this Rep
 
 The data is based off of [this](https://www.kaggle.com/c/home-credit-default-risk/overview) Kaggle Competition.
 
-**Models: Below you will find model documentation**
+**Models:**
+
+Below you will find model documentation
 
 * [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 * [Gradient Boost](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)
