@@ -11,7 +11,7 @@ Capstone Project for Flatiron School DS 021720
 
 **The Problem:**
 * There are many factors that affect the results
-* 
+* There is a lot of 
 
 **The Solution:**
 * 
@@ -25,7 +25,7 @@ Capstone Project for Flatiron School DS 021720
 
 **The Data:** 
 
-The data was provided by the Home Default Credit Risk Competition on Kaggle
+The [data](https://www.kaggle.com/c/home-credit-default-risk/overview) was provided by the Home Default Credit Risk Competition on Kaggle
 
 **The Metrics:** 
 
@@ -36,29 +36,30 @@ The main metric used was ROC_AUC scoring.
 * Other models used - Gradient Boosting
 
 # Conclusion
-* The biggest feature importances were the opinions of the individual if the vaccine was effective or not. Some of the other high impacting features were if the individual had health insurance or not and if they had any good behaviors prior to the spread of the virus like washing their hands. The model was able to predict with a ROC_AUC score of 0.85 for the 
+* The biggest feature importances 
 
 # Future Recommendations
-1. Gather more data to further analyze behavioral patterns
-2. Apply feature engineering to improve model performance.
-3. Take a psychological approach and see if anything changes.
-
+1. Gather more data with less null values
+2. Apply feature engineering to improve model performance
+3. 
 
 # Repository Guide
 
 **Notebooks**
-* Data Clean Up With Baseline Model
+* [Data Clean Up With Baseline Model](https://github.com/Tyasuoka/Capstone_Project/blob/master/Jupyter_Notebooks/Modeling.ipynb)
 
 **CSV Files**
-* Original Data
-* Cleaned Data
+* [Original Data](https://github.com/Tyasuoka/Capstone_Project/blob/master/CSVs/Base_Train.csv.zip) - Only the Base Train dataset was small enough when compressed to be uploaded onto GitHub
+* [Cleaned Data](https://github.com/Tyasuoka/Capstone_Project/blob/master/CSVs/Model_Ready_Data.csv.zip)
 
 **Presentation**
-Canva Link
+[Canva Link]()
 
 # Resources
 
-**[The Data](https://www.kaggle.com/c/home-credit-default-risk/overview)**
+**The Data**
+The raw datasets were too big for github so they have not been added to this Repository.
+The data is based off of [this](https://www.kaggle.com/c/home-credit-default-risk/overview) Kaggle Competition.
 
 **Models: Below you will find model documentation**
 
