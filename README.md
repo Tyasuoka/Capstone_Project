@@ -56,7 +56,8 @@ The main metric used was ROC_AUC scoring.
 
 # Resources
 
-**The Data**
+**The Data:**
+
 The raw datasets were too big for github so they have not been added to this Repository.
 
 The data is based off of [this](https://www.kaggle.com/c/home-credit-default-risk/overview) Kaggle Competition.
