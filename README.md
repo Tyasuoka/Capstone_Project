@@ -67,7 +67,8 @@ The data is based off of [this](https://www.kaggle.com/c/home-credit-default-ris
 Below you will find model documentation
 
 * [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
-* [Gradient Boost](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)
+* [Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+* [Inspiration from Kaggle Competition Notes](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)
  
 # Human Resources
 * My Last Data Bender Cohort 02/17/20 classmates
