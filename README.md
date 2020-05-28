@@ -33,7 +33,7 @@ The main metric used was ROC_AUC scoring.
 
 **The Models Chosen:**
 * The baseline model - Random Forest
-* Other models used - Gradient Boosting
+* Other models used - Linear Regression
 
 # Conclusion
 The largest portion of the individuals that defaulted were from the ages of 20 to 30.
