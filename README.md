@@ -41,7 +41,7 @@ Conclusion for Project Presentation:
 The 5 Most important features for the age range of 20-30 is as follows:
 
 1. How many days before the application the person started current employment
-  * Majority of the individuals were only employed for a short amount of time
+    * Majority of the individuals were only employed for a short amount of time
 2. The population density of the individual's home address
   * Most of the individuals lived in low density areas so outside of cities or other crowded residential areas
 3. The amount of the loan
