@@ -17,7 +17,6 @@ Capstone Project for Flatiron School DS 021720
 **The Solution:**
 * The model will be able to comb through the data and find the biggest factors that alter the result
 * In Depth Analysis to filter the data to find the best results
-* 
 
 **The Process**
 
