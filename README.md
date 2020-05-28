@@ -79,7 +79,7 @@ The 5 Least important features is:
 * [Cleaned Data](https://github.com/Tyasuoka/Capstone_Project/blob/master/CSVs/Model_Ready_Data.csv.zip)
 
 **Presentation**
-[Canva Link]()
+[Canva Link](https://www.canva.com/design/DAD9ZpQdqrs/AcWXiJCO063nz9u-3Nh_sA/view?utm_content=DAD9ZpQdqrs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 # Resources
 
