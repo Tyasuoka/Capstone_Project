@@ -12,10 +12,12 @@ Capstone Project for Flatiron School DS 021720
 **The Problem:**
 * There are many factors that affect the results
 * There are many underlying circumstances that aren't apparent at first glance
+* There are factors that the data won't be able to capture
 
 **The Solution:**
 * The model will be able to comb through the data and find the biggest factors that alter the result
-* The suggestions could help prevent future customers that default on the loans
+* In Depth Analysis to filter the data to find the best results
+* 
 
 **The Process**
 
@@ -42,7 +44,7 @@ The 5 Most important features for the age range of 20-30 is as follows:
 1. How many days before the application the person started current employment
     * Majority of the individuals were only employed for a short amount of time
 2. The population density of the individual's home address
-    * Most of the individuals lived in low density areas so outside of cities or other crowded residential areas
+    * Most of the individuals lived in low density areas so outside of cities or other non crowded residential areas
 3. The amount of the loan
     * This amount flucuated a lot but it was most of the time 3 times higher than the income of the individual
 4. If the household had a child or not
@@ -65,6 +67,7 @@ The 5 Least important features is:
 # Future Recommendations
 1. Gather more data with less null values
 2. Apply feature engineering to improve model performance
+3. New products to accomodate the high risk clientele (Loan Forgiveness Programs)
 
 # Repository Guide
 
